@@ -1,14 +1,14 @@
-Excel to PDF Invoice Generator
-This project is a Python-based tool that converts Excel files into PDF invoices. It is designed to automate the process of generating invoices from Excel data, making it easier to manage and distribute invoices in a professional format.
+Email Daily News from API
+This project automates the process of fetching daily news from an API and sending it via email using Python. It is designed to help users stay updated with the latest news by receiving it directly in their inbox.
 
 Features
-Load data from Excel files.
+Fetch data from a news API.
 
-Generate PDF invoices for each Excel file.
+Send the fetched data via email.
 
-Add dates, tables, headers, and total prices to the PDF.
+Download files from the web.
 
-Support for multiline text in PDFs.
+Refine and customize the email content.
 
 
 API Example: 
